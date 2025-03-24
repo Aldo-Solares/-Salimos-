@@ -12,7 +12,7 @@ Este repositorio tiene solo como proposito entregar un codigo divertido y mostra
 ## 📁 Estructura del Repositorio
 
 - `index.html`: El archivo HTML principal que contiene la estructura de la página web.
-- `script.js`: Un archivo JavaScript donde puedes agregar interactividad, como la función nextPage() y animaciones de los botones.
+- `script.js`: Un archivo JavaScript donde se encuentra el codigo para la interacción con el botón y las animaciones. 
 - `styles.css`: Contiene los estilos de la página.
 - `si.html`: El archivo HTML que contiene la estructura de la página web cuando das click en el botón si.
 - `si_style.css: Contiene los estilos de la pagina `si.html`
