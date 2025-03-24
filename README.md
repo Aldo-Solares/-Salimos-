@@ -1,5 +1,10 @@
 # ⭐¿Salimos?⭐
-Esta es una aplicación web interactiva que plantea una pregunta divertida al usuario y responde de manera ingeniosa según su elección.
+Esta es una aplicación web interactiva que plantea una pregunta divertida al usuario y responde de manera ingeniosa según la elección.
+
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2liZzhpZzZ5bnBvemp1c2lhcTd0aDVrZXEwZnE3eDN4cDYya21kaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IEm8kcqLVCctHJ1kWm/giphy.gif" width="20%" />
+</div>
+
 
 ## 🎯 Objetivo del repositorio
 Este repositorio tiene solo como proposito entregar un codigo divertido y mostrar mi solución a un proyecto comenzado.
