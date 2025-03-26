@@ -7,15 +7,15 @@ Esta es una aplicación web interactiva que plantea una pregunta divertida al us
 
 
 ## 🎯 Objetivo del repositorio
-Este repositorio tiene solo como proposito entregar un codigo divertido y mostrar mi solución a un proyecto comenzado.
+Este repositorio tiene solo como propósito entregar un código divertido y mostrar mi solución a un proyecto comenzado.
 
 ## 📁 Estructura del Repositorio
 
 - `index.html`: El archivo HTML principal que contiene la estructura de la página web.
-- `script.js`: Un archivo JavaScript donde se encuentra el codigo para la interacción con el botón y las animaciones. 
+- `script.js`: Un archivo JavaScript donde se encuentra el código para la interacción con el botón y las animaciones. 
 - `styles.css`: Contiene los estilos de la página.
-- `si.html`: El archivo HTML que contiene la estructura de la página web cuando das click en el botón si.
-- `si_style.css: Contiene los estilos de la pagina `si.html`
+- `si.html`: El archivo HTML que contiene la estructura de la página web cuando das clic en el botón, sí.
+- `si_style.css`: Contiene los estilos de la página `si.html`
 - `LICENCE`: Contiene la licencia
 
 ## Créditos
@@ -24,4 +24,4 @@ Este proyecto está inspirado en el repositorio Do-You-Wanna-Go-Out-With-Me- de 
 Agradezco al autor original por la idea y el código fuente que sirvieron de base para este desarrollo.
 
 ## Licencia
-Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.​
+Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.​
